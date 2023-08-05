@@ -1,4 +1,14 @@
-### Hi there, I'm Mustapha Adams 👋<br><br>- 🔭 I’m currently working on an Expense Tracker with Django<br>- 🌱 I’m currently learning Data Structures and Algorithms<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: "Don't live in the haze of the abstract, live with the tangible and real, even if -especially if -it's uncomfortable." --ctto<br>## 💫 About Me: A Software Engineer who is passionate about Backend Web Development with Python/Django.
+### Hi there, I'm Mustapha Adams 👋<br>
+<br>
+- 🔭 I’m currently working on an Expense Tracker with Django
+<br>
+- 🌱 I’m currently learning Data Structures and Algorithms
+<br>
+- 😄 Pronouns: He/Him
+<br>
+- ⚡ Fun fact: "Don't live in the haze of the abstract, live with the tangible and real, even if -especially if -it's uncomfortable." --ctto
+<br>
+## 💫 About Me: A Software Engineer who is passionate about Backend Web Development with Python/Django.
 
 
 ## 🌐 Socials:
