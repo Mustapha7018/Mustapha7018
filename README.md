@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Mustapha Adams 👋
 
 - 🔭 I’m currently working on an Expense Tracker with Django
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: "Don't live in the haze of the abstract, live with the tangible and real, even if -especially if -it's uncomfortable." --ctto
-# 💫 About Me: Software Engineer and passionate about Backend Web Development with Python/Django.
+## 💫 About Me: A Software Engineer who is passionate about Backend Web Development with Python/Django.
 
 
 ## 🌐 Socials:
