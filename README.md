@@ -8,7 +8,8 @@
 <br>
 - ⚡ Fun fact: "Don't live in the haze of the abstract, live with the tangible and real, even if -especially if -it's uncomfortable." --ctto
 <br>
-## 💫 About Me: A Software Engineer who is passionate about Backend Web Development with Python/Django.
+<br>
+💫 About Me: A Software Engineer who is passionate about Backend Web Development with Python/Django.
 
 
 ## 🌐 Socials:
