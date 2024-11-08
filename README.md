@@ -1,6 +1,6 @@
 ### Hi there, I'm Mustapha Adams 👋<br>
 <br>
-- 🔭 I’m currently working on an Expense Terra
+- 🔭 I’m currently working on an Terra
 <br>
 - 🌱 Learning Data Structures and Algorithms
 <br>
