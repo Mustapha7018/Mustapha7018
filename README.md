@@ -1,8 +1,8 @@
 ### Hi there, I'm Mustapha Adams 👋<br>
 <br>
-- 🔭 I’m currently working on an Expense Tracker with Django
+- 🔭 I’m currently working on an Expense Terra
 <br>
-- 🌱 I’m currently learning Data Structures and Algorithms
+- 🌱 Learning Data Structures and Algorithms
 <br>
 - 😄 Pronouns: He/Him
 <br>
